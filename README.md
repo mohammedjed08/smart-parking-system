@@ -19,21 +19,6 @@ This project is my **graduation project** for the Software Engineering program a
 
 ---
 
-##  Screenshots
-
-> _Screenshots can be added here once available._
-
-```
-[Main Screen]            [Gym Schedule]
-  Welcome back              Gym Timing
-  jeddah city               Open now
-  ┌──┬──┐                   Thursday    Open 24h
-  │01│09│                   Friday      12-4 AM, 1 PM-12 AM
-  │02│10│                   Saturday    Open 24h
-  ...                       ...
-```
-
----
 
 ##  Tech Stack
 
@@ -54,8 +39,8 @@ This project is my **graduation project** for the Software Engineering program a
 ```
 ┌─────────────────┐      ┌──────────────────┐      ┌─────────────────┐
 │   IoT Hardware  │      │  Cloud Database  │      │   Mobile App    │
-│  Arduino ESP32  │ ───→ │   Firebase RTDB  │ ───→ │  Flutter (Dart) │
-│  + IR Sensors   │      │   parking/slotN  │      │   Real-time UI  │
+│   ESP32         │ ───→ │   Firebase RTDB  │ ───→ │  Flutter (Dart) │
+│ + uSound Sensors│      │   parking/slotN  │      │   Real-time UI  │
 └─────────────────┘      └──────────────────┘      └─────────────────┘
    Detects car           Stores 0 or 1 per         Polls every 2s,
    presence              parking slot              redraws UI live
