@@ -10,12 +10,12 @@ This project is my **graduation project** for the Software Engineering program a
 
 ##  Features
 
-- 🟢 **Real-time slot tracking** — slot status updates every 2 seconds from the cloud
-- 🚗 **Visual parking layout** — 16 slots displayed with direction-aware car illustrations
-- ☁️ **Cloud-connected** — powered by Firebase Realtime Database
-- 📱 **Cross-platform** — runs on Android, iOS, Web, Windows, macOS, and Linux from a single codebase
-- 🏋️ **Gym schedule screen** — secondary screen showing weekly gym timing
-- ✅ **Fully tested** — 24 automated tests across unit, widget, and integration layers
+-  **Real-time slot tracking** — slot status updates every 2 seconds from the cloud
+-  **Visual parking layout** — 16 slots displayed with direction-aware car illustrations
+-  **Cloud-connected** — powered by Firebase Realtime Database
+-  **Cross-platform** — runs on Android, iOS, Web, Windows, macOS, and Linux from a single codebase
+-  **Gym schedule screen** — secondary screen showing weekly gym timing
+-  **Fully tested** — 24 automated tests across unit, widget, and integration layers
 
 ---
 
