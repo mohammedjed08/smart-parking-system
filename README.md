@@ -164,21 +164,12 @@ The project includes 24 automated tests across three levels:
 
 ## 🔮 Future Work
 
-- [ ] Connect real Arduino ESP32 + IR sensors to live-update Firebase
 - [ ] Add slot reservation feature (book ahead)
 - [ ] Implement user authentication via Firebase Auth
 - [ ] Add usage analytics dashboard (peak hours, occupancy trends)
 - [ ] Multi-lot support (scale to multiple parking lots)
 - [ ] Push notifications when preferred slot becomes available
 - [ ] Payment integration for paid parking
-
----
-
-## 👨‍💻 Author
-
-**Mosaab**
-Software Engineering — University of Jeddah
-Graduation Project — 2026
 
 ---
 
