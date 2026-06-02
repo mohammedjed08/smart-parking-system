@@ -1,4 +1,4 @@
-# 🅿️ Smart Parking System
+#  Smart Parking System
 
 > IoT-based real-time parking management solution built with Flutter and Firebase.
 
@@ -8,7 +8,7 @@ This project is my **graduation project** for the Software Engineering program a
 
 ---
 
-## ✨ Features
+##  Features
 
 - 🟢 **Real-time slot tracking** — slot status updates every 2 seconds from the cloud
 - 🚗 **Visual parking layout** — 16 slots displayed with direction-aware car illustrations
@@ -19,7 +19,7 @@ This project is my **graduation project** for the Software Engineering program a
 
 ---
 
-## 📸 Screenshots
+##  Screenshots
 
 > _Screenshots can be added here once available._
 
@@ -35,21 +35,21 @@ This project is my **graduation project** for the Software Engineering program a
 
 ---
 
-## 🛠️ Tech Stack
+##  Tech Stack
 
 | Layer            | Technology                              |
 |------------------|-----------------------------------------|
 | **Frontend**     | Flutter (Dart)                          |
 | **Backend**      | Firebase Realtime Database              |
 | **Communication**| HTTP REST (`http` package)              |
-| **IoT Hardware** | Arduino ESP32 + IR Sensors *(planned)*  |
+| **IoT Hardware** | ESP32 + UltraSound Sensors              |
 | **Testing**      | `flutter_test`, `integration_test`      |
 | **IDE**          | Visual Studio Code                      |
 | **Version Control** | Git & GitHub                         |
 
 ---
 
-## 🏗️ System Architecture
+##  System Architecture
 
 ```
 ┌─────────────────┐      ┌──────────────────┐      ┌─────────────────┐
@@ -63,7 +63,7 @@ This project is my **graduation project** for the Software Engineering program a
 
 ---
 
-## 🚀 Getting Started
+##  Getting Started
 
 ### Prerequisites
 
@@ -104,7 +104,7 @@ flutter run
 
 ---
 
-## 📂 Project Structure
+##  Project Structure
 
 ```
 parking_app/
@@ -123,7 +123,7 @@ parking_app/
 
 ---
 
-## 🧪 Testing
+##  Testing
 
 The project includes 24 automated tests across three levels:
 
@@ -143,7 +143,7 @@ The project includes 24 automated tests across three levels:
 
 ---
 
-## 🗄️ Firebase Data Structure
+##  Firebase Data Structure
 
 ```json
 {
@@ -162,7 +162,7 @@ The project includes 24 automated tests across three levels:
 
 ---
 
-## 🔮 Future Work
+##  Future Work
 
 - [ ] Add slot reservation feature (book ahead)
 - [ ] Implement user authentication via Firebase Auth
@@ -173,6 +173,6 @@ The project includes 24 automated tests across three levels:
 
 ---
 
-## 📄 License
+##  License
 
 This project is licensed under the MIT License — see the [LICENSE](LICENSE) file for details.
